@@ -1,2 +1,2 @@
 # info282
-Proyecto Ingeniería de software INFO282 Universidad Austral de Chile
+Proyecto Taller Ingeniería de software INFO282 Universidad Austral de Chile
